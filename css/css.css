@@ -1,0 +1,59 @@
+body{
+	background-color:#fff;
+}
+.title{
+	color:white;
+	background-color:black;
+	text-align: center;
+	padding:20px; 
+}
+
+.b-father{
+	background-color:rgb(240,0,0);
+	color:white;
+	padding:15px;
+	border-color:black;
+	border-radius:5px;
+	margin:10px;
+	font-family: sans-serif;
+
+
+}
+.b-father:hover{
+	background-color:rgb(180,0,0);
+	color:white;
+}
+
+.content{
+	background-color:#000;
+	padding:20px;
+	width:45%;
+	visibility: hidden; 
+	border-radius:10px;
+}
+.content button{
+	margin-left:20px;
+	margin-right:30px;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+.localstor{
+	background:#000;
+	color: white;
+	padding: 20px;
+	width:40%;
+	visibility: hidden;
+	border-radius:0px 0px 5px 5px;
+}
+
+.localstor p{
+	margin:10px;
+}
+
+/*#############*/
+.bg-black{
+	background-color:black; 
+}
+.bg-violet{
+	background-color:violet; 
+}
